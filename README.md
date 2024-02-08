@@ -1,2 +1,2 @@
 # tpGit
-Ceci est un rep test pour apprendre Git
+Ceci est un rep test pour apprendre Gittest
